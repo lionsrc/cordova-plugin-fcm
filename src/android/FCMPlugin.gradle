@@ -13,7 +13,7 @@ repositories {
 			mavenLocal()
         }
 dependencies {
-	compile 'com.google.firebase:firebase-core:+
+	compile 'com.google.firebase:firebase-core:+'
 	compile 'com.google.firebase:firebase-messaging:+'
 }
 
